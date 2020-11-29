@@ -19,6 +19,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
       <path value="$PROJECT_DIR$/vendor/psy/psysh" />
@@ -129,6 +132,7 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1kvxLLzh7PjEcfEqvL2fDTkiyJs" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -157,7 +161,8 @@
       <updated>1606594811392</updated>
       <workItem from="1606594812766" duration="2034000" />
       <workItem from="1606598784959" duration="3726000" />
-      <workItem from="1606602928488" duration="18893000" />
+      <workItem from="1606602928488" duration="19567000" />
+      <workItem from="1606628709045" duration="5470000" />
     </task>
     <servers />
   </component>

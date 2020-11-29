@@ -23,5 +23,6 @@ Route::get('escritorio',[DashboardController::class,'index'])->name('dashboard.i
 Route::get('perfil',[DashboardController::class,'perfil'])->name('dashboard.perfil');
 
 
-Route::get('login',[LoginController::class,'form_login'])->name('auth.form_login');
+Route::get('login',[LoginController::class,'form_login'])->name('login.form_login');
+Route::post('auth',[LoginController::class,'auth'])->name('login.auth');
 
